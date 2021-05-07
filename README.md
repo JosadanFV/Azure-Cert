@@ -21,4 +21,4 @@
 - <h5 align="center">SaaS</h5>
 <em>El proveedor de servicios administra todos los aspectos del entorno de aplicacion (<strong>maquinas virtuales, recursos de red, Almacenamiento y las aplicaciones</strong>) de esta manera el inquilino solo proporciona sus datos a la app administrada por el proveedor de servicios. "un ejemplo es office 365 que se ejecuta en la nube solo el usuario crea contenido y office hace todo lo de más"</em>
 
-> [![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://docs.microsoft.com/en-gb/learn/azure-fundamentals/intro-to-azure-fundamentals/media/iaas-paas-saas.png)
+> [![An old rock in the desert]("Shiprock, New Mexico by Beau Rogers")](https://docs.microsoft.com/en-gb/learn/azure-fundamentals/intro-to-azure-fundamentals/media/iaas-paas-saas.png)
